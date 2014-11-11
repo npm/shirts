@@ -39,16 +39,16 @@ Women's XL      5
 
 ## The New Order (November 2014)
 
-- 360 shirts
-- 3 designs
+- 390 shirts
+- 3 designs (130 shirts per design)
 - 2:1 male-female ratio
 - Canvas+Bella for sizes < XL
 - Some other 100% cotton tee for sizes >= XL
 
 ```
 Men's Small      5
-Men's Medium    25
-Men's Large     25
+Men's Medium    30
+Men's Large     30
 Men's XL        15
 Men's XXL        5
 Men's XXXL       5
@@ -57,4 +57,6 @@ Women's Medium  10
 Women's Large   10
 Women's XL       5
 Women's XXL      5
+------------------
+Total          130
 ```
