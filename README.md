@@ -2,7 +2,7 @@
 
 Keeping track of t-shirt designs and orders.
 
-## The New Order (November 2014)
+## The New Order (March 2015)
 
 - 390 shirts
 - 3 designs (130 shirts per design)
