@@ -54,3 +54,11 @@ Total          130
 - Back: nothing
 - Men's XL, XXL, XXXL; Women's XL, XXL: Hane's Dark Chocolate (100% Cotton)
 - All smaller sizes: Bella+Canvas Chocolate/Brown
+
+
+### Feedback
+
+- Some logos are off-center
+- Too much variety in shirt colors
+- Men's red shirt ink faded after two washes - @rod11
+- We didn't get any women's large brown shirts
